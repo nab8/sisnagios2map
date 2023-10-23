@@ -1,0 +1,33 @@
+#map{
+    min-height: 700px;
+    clear: both;
+    max-width: 700px;
+}
+.popup_content { 
+    width:400px; 
+}
+table.popup_content{
+    max-width: 90%;
+    font-size: 1em;
+}
+table th.popup_content{
+    padding-top: 10px;
+}
+table td.popup_content{
+    font-size: 1em;
+}
+.status_gray{
+    background-color: #ACACAC;
+}
+.status_green{
+    background-color: #88D066;
+}
+.status_yellow{
+    background-color: #FFFF00;
+}
+.status_orange{
+    background-color: #FFBB55;
+}
+.status_red{
+    background-color: #F88888;
+}
